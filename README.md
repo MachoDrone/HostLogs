@@ -9,3 +9,6 @@ Once the Host is started, the previous logs are deleted.
 
 -# script command
 ```wget -qO- https://github.com/MachoDrone/HostLogs/raw/main/HostLogs.sh | bash```
+
+RESULT:
+![screenshot](zHostLog.png)
