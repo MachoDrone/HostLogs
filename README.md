@@ -1,4 +1,4 @@
-# Collect Logs before restarting Host.
+# Collect Logs before restarting Host. (deprecated)
 If you have an issue, consider collecting your logs before restarting  your Host.
 Once the Host is started, the previous logs are deleted.
 
